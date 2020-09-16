@@ -1,1 +1,0 @@
-# Github-GraphQL-Crawler
